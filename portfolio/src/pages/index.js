@@ -95,7 +95,7 @@ function Home() {
 						<Animate down>
 							<ul>
 								<li><a href="mailto:ts3bj@virginia.edu" target="_blank" rel="noopener noreferrer">email</a></li>
-    							<li><a href="https://instagram.com/tomsobolik" target="_blank" rel="noopener noreferrer">instagram</a></li>
+    							<li><a href="https://www.linkedin.com/in/thomas-sobolik-311074137/" target="_blank" rel="noopener noreferrer">linkedin</a></li>
     							<li><a href="https://twitter.com/tom_sobolik" target="_blank" rel="noopener noreferrer">twitter</a></li>
     							<li><a href="https://soundcloud.com/tomsobolikmusic" target="_blank" rel="noopener noreferrer">sc</a></li>
 							</ul>
