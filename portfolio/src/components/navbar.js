@@ -64,7 +64,7 @@ const Navbar = () => (
         <li className="home"><a className="homeText" href="/">home</a></li>
         <li className="code"><a className="codeText" href="https://github.com/thomassobolik" target="_blank" rel="noopener noreferrer">code</a></li>
         <li className="writing"><a className="writingText" href="/writing">writing</a></li>
-        <li className="music"><a className="musicText" href="#">music</a></li>
+        <li className="music"><a className="musicText" href="/music">music</a></li>
       </ul>
     </StyledNav>
 );
