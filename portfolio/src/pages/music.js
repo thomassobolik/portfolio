@@ -24,6 +24,11 @@ const StyledDescription = styled.div`
 		padding-right: 200px;
 	}
 `
+const StyledLinks = styled.div`
+	display: flex;
+	justify-content: center;
+	padding: 50px;
+`
 
 function Music() {
 	return (
@@ -57,6 +62,14 @@ function Music() {
 						</a>
 					</StyledDescription>
 				</Animate>
+			<div className="soundcloud-links">
+				<Animate down>
+					<StyledLinks>
+						<iframe className="track" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/583380054&color=%2336347c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+						<iframe className="mix" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/632831733&color=%23d8c3b4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+					</StyledLinks>
+				</Animate>
+			</div>
 			</div>
 		</div>
 	);
