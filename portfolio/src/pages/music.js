@@ -66,14 +66,14 @@ function Music() {
 				<Animate down>
 					<StyledLinks>
 						<iframe className="track" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/583380054&color=%2336347c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-						<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Ftom-sobolik%2Fstrictly-tom-sophie-on-wxtj-charlottesville-21619%2F" frameborder="0" ></iframe>
+						<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Ftom-sobolik%2Fdj-toms-afro-techno-globalization-mix%2F" frameborder="0" ></iframe>
 					</StyledLinks>
 				</Animate>
 			</div>
 			<div className="mixcloud-links">
 				<Animate down>
 					<StyledLinks>
-						<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Ftom-sobolik%2Fdj-toms-afro-techno-globalization-mix%2F" frameborder="0" ></iframe>
+						<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Ftom-sobolik%2Fstrictly-tom-sophie-on-wxtj-charlottesville-21619%2F" frameborder="0" ></iframe>
 						<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Ftom-sobolik%2Fstrictly-tom-sophie-on-wxtj-charlotesville-22319%2F" frameborder="0" ></iframe>
 					</StyledLinks>
 				</Animate>
