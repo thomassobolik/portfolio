@@ -2,11 +2,12 @@ import React from "react";
 import styled from 'styled-components';
 import Navbar from '../components/navbar';
 import Animate from '../components/animate';
-import ImageGrid from '../components/image-grid';
+import PosterWall from '../components/poster-wall';
 
 const StyledDescription = styled.div`
 	display: flex;
 	justify-content: center;
+	padding-bottom: 25px;
 	
 	.description {
 		text-align: center;
@@ -27,7 +28,7 @@ const StyledDescription = styled.div`
 const StyledLinks = styled.div`
 	display: flex;
 	justify-content: center;
-	padding: 50px;
+	padding: 10px;
 `
 
 function Music() {
@@ -57,8 +58,7 @@ function Music() {
 						Planned Parenthood. I'm proud of what we were able to contribute to the scene on
 						campus!
 						<br></br><br></br>
-						Below you can hear some examples of my work. I currently make electronic music focused on a mixture of club styles, 
-						along with hip-hop, jazz, pop, and ambient.
+						Below you can hear some examples of my production and mixes, as well as some of the shows I've helped put on.
 						</a>
 					</StyledDescription>
 				</Animate>
@@ -66,8 +66,21 @@ function Music() {
 				<Animate down>
 					<StyledLinks>
 						<iframe className="track" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/583380054&color=%2336347c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-						<iframe className="mix" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/632831733&color=%23d8c3b4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+						<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Ftom-sobolik%2Fstrictly-tom-sophie-on-wxtj-charlottesville-21619%2F" frameborder="0" ></iframe>
 					</StyledLinks>
+				</Animate>
+			</div>
+			<div className="mixcloud-links">
+				<Animate down>
+					<StyledLinks>
+						<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Ftom-sobolik%2Fdj-toms-afro-techno-globalization-mix%2F" frameborder="0" ></iframe>
+						<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Ftom-sobolik%2Fstrictly-tom-sophie-on-wxtj-charlotesville-22319%2F" frameborder="0" ></iframe>
+					</StyledLinks>
+				</Animate>
+			</div>
+			<div className="poster-wall">
+				<Animate down>
+					<PosterWall></PosterWall>
 				</Animate>
 			</div>
 			</div>
