@@ -56,7 +56,10 @@ function Music() {
 						to town. Usually we were able to donate most of the profits from the show to charity, benefitting groups
 						like RAICES, The United Negro College Fund, the Charlottesville Sexual Assault Resource Agency, and 
 						Planned Parenthood. I'm proud of what we were able to contribute to the scene on
-						campus!
+						campus! Additionally, I performed weekly as a volunteer on various radio shows on both WXTJ and its parent station, WTJU.
+						These included weekly house and techno, and experimental revue "Strictly Tom & Sophie" (shoutout to my partner, Sophie Liebergall!),
+						"The Groove Tube," a funk show I inherited, "Jazzmania," a Sunday morning jazz vinyl show, and a WTJU marathon fundraiser I programmed consiting of
+						a deep dive into the work of Fela Kuti.
 						<br></br><br></br>
 						Below you can hear some examples of my production and mixes, as well as some of the shows I've helped put on.
 						</a>
